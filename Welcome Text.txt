@@ -1,0 +1,9 @@
+1.	This quiz has a total of five questions with four options each, and only one correct option. Every question is compulsory.
+2.	A timer of 90 seconds (1 minute + 30 seconds) will run along with the quiz, and you will be awarded 2 points for every second remaining at the end.
+	If the timer runs out before the end of all five questions, your score will be calculated on the questions already answered.
+3.	Final scoring system:
+	- Every correct answer awards 15 points
+	- Every incorrect answer takes away 15 points
+	- If you have answered more questions incorrectly than correctly, the final score will be zero (to prevent negative scores).
+4.	Top five scores will be featured in the annual Geetanjali school magazine.
+5.	All the best, and let's see if you have what it takes to win!
