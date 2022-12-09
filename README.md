@@ -11,3 +11,9 @@ This quiz takes questions randomly from a database in SQL and displays it in a G
 7. When the next button is clicked, it moves on to the next question.
 8. When all the questions are over, the score is displayed. Because extra points are given for the amount of time saved, the user may randomly choose options, and still get a good score. To avoid this, if the number of wrong choices exceeds the correct, the final score will be zero.  
 Else, score is (number of correct ans - number of incorrect ans) * 15 + (time in seconds remaining) * 2
+
+### Modules used
+- tkinter
+- random
+- mysql.connector
+
