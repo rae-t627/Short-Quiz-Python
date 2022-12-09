@@ -17,7 +17,7 @@ MODULES USED IN THE PROGRAM :-
 
 ########################################################################################################################
 
-con = tor.connect(host="localhost", user="root", passwd="Chowdhury@321", database="quiz")
+con = tor.connect(host="host_name", user="user_name", passwd="password", database="database_name")
 # This is the standard syntax to establish a connection from Python to MySQL
 
 cs_ques = con.cursor()  # Creating a cursor for the MySQL connection, to manage the quiz questions
