@@ -3,7 +3,9 @@
 ### Overview
 This quiz takes questions randomly from a database in SQL and displays it in a GUI created using tkinter. It consists of 5 questions and it is in Multiple Choice Question format with 4 options per question. Further, the quiz is timed.
 1. The quiz begins with a welcome page which the python program reads from a text file.  
-![1) Welcome page](https://user-images.githubusercontent.com/105154462/206639329-cf8c221c-0c24-413a-9cf0-068f81434f5c.png)
+<img
+  src="[/path/to/img.jpg](https://user-images.githubusercontent.com/105154462/206639329-cf8c221c-0c24-413a-9cf0-068f81434f5c.png)"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 2. This is then followed by a login page.
 3. The login page verifies the credentials entered with the database in SQL. If the credentials are invalid, a message box pops up saying that the credentials are not registered with the school.
 4. If the credentials are valid, the quiz starts. The questions appear. The options are radiobuttons. Upon selecting an option, the submit button appears. When the submit button is clicked the radiobuttons are disabled.
